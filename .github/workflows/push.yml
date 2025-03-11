@@ -2,9 +2,9 @@
 # Note: this file originates in template-action-docker #
 # ---------------------------------------------------- #
 
-on:
-  - push
-  - workflow_dispatch
+on: push
+#  - push
+#  - workflow_dispatch
 
 name: push
 
